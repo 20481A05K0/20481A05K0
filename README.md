@@ -40,4 +40,4 @@ Hello, my name is <b>Prasoon Kumar</b> from Gudlavalleru Engineering College, An
 
 ### Contact Me
 - 📫 Email: [prasoon251002@gmail.com](mailto:prasoon251002@gmail.com)
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/Prasoon25)](https://www.linkedin.com/in/Prasoon25)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/Prasoon25)](https://www.linkedin.com/in/Prasoon25)
