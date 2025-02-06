@@ -42,8 +42,7 @@ Hello, my name is <b>Prasoon Kumar</b> from Gudlavalleru Engineering College, An
 - 📫 Email: [prasoon251002@gmail.com](mailto:prasoon251002@gmail.com)
 - 💼 LinkedIn: [(https://www.linkedin.com/in/Prasoon25)](https://www.linkedin.com/in/Prasoon25)
 
-- 1
-2
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=20481A05K0&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=20481A05K0&langs_count=5&theme=tokyonight)]()
 
