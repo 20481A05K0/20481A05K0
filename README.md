@@ -6,6 +6,8 @@
 
 Hello, my name is <b>Prasoon Kumar</b> from Gudlavalleru Engineering College, Andhra Pradesh. I have graduated with a degree in Computer Science and Engineering and have one year of work experience in Frontend Web Development 🏢📄💼.
 
+![Visitor Count](https://profile-counter.glitch.me/20481A05K0/count.svg)
+
 - 🔭 I’m currently working on freelance projects and open source contributions.
 - 🌱 I’m currently learning Docker and Azure resources.
 - 👯 I’m looking to collaborate on free and open source projects.
